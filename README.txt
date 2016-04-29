@@ -16,7 +16,8 @@ The following are the folders, subfolders and files present inside:
 			2.2.2.1) 3D Models
 			2.2.2.2) Textures
 		2.2.3) Sample Terrains
-		2.2.4) README of Software part
+		2.2.4) Astronomical Data and Python Libraries
+		2.2.5) README of Software part
 	2.3) Hardware part
 		2.3.1) Circuit Diagrams
 		2.3.2) UML Diagrams
